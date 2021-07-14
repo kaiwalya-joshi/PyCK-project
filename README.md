@@ -4,7 +4,7 @@
 
 Open alphabet_recognition.ipynb
 
-Model is trained in CNN_model_builder.ipynb
+Model is trained in CNN_Model_Builder.ipynb
 
 Trained model is emnist_trained_model.h5
 
