@@ -12,6 +12,10 @@ Song data is songs.csv
 
 To run the model, just run alphabet_recognition.ipynb
 
+choose movie or song by double clicking on option
+
+then choose which movie or which song do you want by double clicking.
+
 
 
 
